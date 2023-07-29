@@ -1,0 +1,49 @@
+.blog-content{
+    display: flex;
+    flex-direction: column;
+    padding: 24px 20%;
+    gap: 32px;
+}
+
+.blog_title{
+    font-weight: 600;
+    line-height: 40px;
+    font-size: 32px;
+    font-family: Poppins;
+    color: #202020;
+}
+
+.blog-content-body{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.blog-section-title{
+    font-size: 24px;
+    color: #4A4A4A;
+    line-height: 28px;
+    text-decoration: underline;
+}
+
+.blog_paragraph{
+    text-align: justify;
+    font-size: 16px;
+    line-height: 18px;
+    color: #202020;
+    
+}
+
+.blog-sub-heading{
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: underline;
+    display: flex;
+    margin-top: 16px;
+}
+
+.blog-section-container{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}

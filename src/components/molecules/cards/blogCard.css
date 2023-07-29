@@ -1,0 +1,36 @@
+.blog-card{
+    font-family: Poppins;
+    display: flex;
+    padding: 22px 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 4px;
+    border: 1px solid rgba(17, 17, 17, 0.30);
+    cursor: pointer;
+}
+
+.blog-card__header{
+    color: #202020;
+    text-align: center;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.blog-card__body_title{
+    color: #202020;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.blog-card__body_description{
+    color: #6D6D6D;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

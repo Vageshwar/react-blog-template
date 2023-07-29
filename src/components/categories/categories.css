@@ -1,0 +1,10 @@
+.categories{
+    border-radius: 8px;
+    border: 1px solid rgba(17, 17, 17, 0.30);
+    background: #FFF;
+    padding: 12px;
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+}

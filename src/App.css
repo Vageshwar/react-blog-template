@@ -1,0 +1,38 @@
+.fullwidth{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.hero{
+  width: 100%;
+  text-align: center;
+}
+
+.primary{
+  background-color: #444BFF;
+  color: #FFFFFF;
+}
+
+.secondary{
+  background-color: #F4F4F4;
+}
+
+.tertiary{
+  background-color: transparent;
+}
+
+
+.categories-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+
+.blogs-card-container{
+  padding: 0px 10%;
+}
+
+.blog-thumbnail{
+  border-radius: 4px;
+}

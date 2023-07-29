@@ -1,0 +1,70 @@
+.text-primary{
+    color: #202020;
+}
+
+.text-secondary{
+    color: #6D6D6D;
+}
+
+.text-tertiary{
+    color: #9d9898;
+}
+
+.text-weight-bold{
+    font-weight: 600;
+}
+
+.text-weight-x-bold{
+    font-weight: 700;
+}
+
+.text-weight-semibold{
+    font-weight: 500;
+}
+
+.text-weight-normal{
+    font-weight: 400;
+}
+
+.text-size-h1, h1{
+    font-size: 64px;
+    line-height: 72px;
+}
+
+.text-size-h2, h2{
+    font-size: 56px;
+    line-height: 60px;
+}
+
+.text-size-h3, h3{
+    font-size: 48px;
+    line-height: 52px;
+}
+
+.text-size-h4, h4{
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.text-size-h5, h5{
+    font-size: 24px;
+    line-height: 27px;
+}
+
+.text-size-h6, h6{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.text-size-p, p, div{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.text-underline{
+    text-decoration: underline;
+}
+
+.text-align-center{
+    text-align: center;
+}
