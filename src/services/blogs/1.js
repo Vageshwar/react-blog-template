@@ -1,5 +1,5 @@
 export default {
-    id: '',
+    id: '1',
     title: 'Maximizing Passive Income: Unleashing the Potential of Midjourney AI and Chat GPT',
     category: 'A.I',
     content: [

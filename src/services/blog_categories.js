@@ -21,7 +21,7 @@ export const BLOG_CATEGORIES = [
     },
     {
         id: 5,
-        key: 'esports',
+        key: 'e-sports',
         title: 'E-Sports',
     },
     {

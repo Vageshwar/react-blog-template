@@ -16,6 +16,12 @@ function BlogCardContainer({
                 </div>
             )
         }
+        {
+            Array.isArray(blogs) && !blogs.length ?
+            <div>Todo: No Blog Available</div>
+            :
+            null
+        }
     </div>
   )
 }
